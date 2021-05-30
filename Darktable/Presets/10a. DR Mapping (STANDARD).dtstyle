@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>10a. DR Mapping (STANDARD)</name><description></description></info><style><plugin><num>16</num><module>4</module><operation>filmicrgb</operation><op_params>gz02eJybNXOyo7Ex98GzZ3QcGBgcoPiEEwRDwCygGgjrhNMf8RNA+QKg3AJ7mPzZMz52IJoRitHZMPCEnYEBAFzqEiI=</op_params><enabled>1</enabled><blendop_params>gz13eJxjYGBgYAZiCQYYOOHEgAYY0QVwggZ7CB6pfNoAAE4AGQc=</blendop_params><blendop_version>10</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name></plugin></style></darktable_style>
