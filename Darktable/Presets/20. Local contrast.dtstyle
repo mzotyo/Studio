@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>20. Local contrast</name><description></description></info><style><plugin><num>18</num><module>2</module><operation>atrous</operation><op_params>gz05eJxjZoCAs2d87M6eOWM3a6akPZBtz8DQYE9r8Ss5TPYqUSz2nVdYwRjEBokBlZOKSQQN9gByZjmB</op_params><enabled>1</enabled><blendop_params>gz13eJxjYGBgYAJiCQYYOOHEgAYY0QVwggZ7CB6pfNoAAExgGQY=</blendop_params><blendop_version>10</blendop_version><multi_priority>0</multi_priority><multi_name>[local contrast]</multi_name></plugin></style></darktable_style>
