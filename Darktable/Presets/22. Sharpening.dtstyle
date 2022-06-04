@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<darktable_style version="1.0"><info><name>22. Sharpening</name><description>darktable 2.6</description></info><style><plugin><num>14</num><module>1</module><operation>highpass</operation><op_params>0000c040f628f440</op_params><enabled>1</enabled><blendop_params>gz11eJxjZGBg4GIAgRNODGiAEV0AJ2iwh+CRyscOAPXbGPc=</blendop_params><blendop_version>9</blendop_version><multi_priority>0</multi_priority><multi_name>[sharpening]</multi_name></plugin></style></darktable_style>
